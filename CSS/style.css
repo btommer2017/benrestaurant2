@@ -1,0 +1,27 @@
+/*
+primary: #ff4081
+p-light: #ff79b0
+p-dark: ##c60055
+secondary: #c6ff00
+s-light: #66ffa6;
+s-dark: #00b248u
+*/
+
+
+body {
+    background-color: #ff4081;
+   
+}
+
+h1,
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+img {width: 250px;
+}
+
+.pic1 {
+width: 200px;
+
+}
