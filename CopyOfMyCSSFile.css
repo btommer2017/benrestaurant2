@@ -1,0 +1,47 @@
+/*
+primary: #ff4081
+p-light: #ff79b0
+p-dark: ##c60055
+secondary: #c6ff00
+s-light: #66ffa6;
+s-dark: #00b248u
+*/
+
+
+body {
+    background-color: #ff4081;
+   
+}
+
+h1,
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-align: center
+}
+
+h1 {
+    font-size: 172px;
+}
+
+li {
+    display: inline-block;
+    font-size: 45;
+}
+
+img {width: 250px;
+    margin: 22 0 22 22
+}
+
+.pic1 {
+width: 500px;
+}
+
+p { font-size: 30}
+
+/* footer styles */
+/* header styles */
+header li {margin: 10 10px}
+
+header li:first-of-type {
+    margin-left: 0;
+}
