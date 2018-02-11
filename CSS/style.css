@@ -16,12 +16,32 @@ body {
 h1,
 h2 {
     font-family: 'Lato', sans-serif;
+    text-align: center
+}
+
+h1 {
+    font-size: 172px;
+}
+
+li {
+    display: inline-block;
+    font-size: 45;
 }
 
 img {width: 250px;
+    margin: 22 0 22 22
 }
 
 .pic1 {
-width: 200px;
+width: 500px;
+}
 
+p { font-size: 30}
+
+/* footer styles */
+/* header styles */
+header li {margin: 10 10px}
+
+header li:first-of-type {
+    margin-left: 0;
 }
